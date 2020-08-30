@@ -1,0 +1,17 @@
+.footerclass{
+    text-align: center !important;
+    height : auto;
+    background-image: url('footer2.png');
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    color: white;
+}
+
+ul{
+    font-size: 25px;
+}
